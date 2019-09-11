@@ -35,4 +35,5 @@ I have also gained an understanding of how to introduce APIs into my projects us
 
 I think that the most important lesson learned during this project is the idea of self teaching using online resources. I found that following React App and Firebase tutorials was very helpful during the development of this project.
 
+## What would I change if I made this app again?
 If I were to do this project again, I think that I would try to actively use an agile development mindset. Back when I started this project, I had a set idea of what I wanted the app to look like and what it should do. I didn't really consider if other people thought the same way or if the way I intended to implement the idea was optimal. After attending a development workshop called Create Camp I realized the importance of checking with stakeholders and regularly stopping development to check if the plans I had made were still viable. I believe, had I known what I know now, the project would have been completed early enough to be used by the school cafe
