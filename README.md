@@ -10,3 +10,6 @@ Brew is a system made of two React PWAs. One is used by the cafe operator and on
 and allowing them to adjust loyalty appropriately. 
 
 4.) The customer can check the app to see a real time representation of their loyalty progress.  
+
+## Brew Customer
+The customer version of the brew app is where the customers can check their loyalty progress and show their QR code to the cafe. The customers login using their google account and are shown loyalty progress in the form of colored in or greyed out coffee cups from Font Awesome. They can then either sign out or press 'check progress' to check if their loyalty progress has updated.
