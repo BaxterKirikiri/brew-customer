@@ -20,7 +20,7 @@ Brew customer is a react based progressive web app. It was created from the basi
 Brew customer utilizes firebase services via the firebase CLI. Specifically it uses firebase hosting to host the app, firebase authentication to allow users to login with their google account and real time sync firestore to store customer loyalty progress and link it to their google account.
 
 ## Future Plans
-Currently, there are no plans to continue this project in the future. This app was originally created for my high school cafe, however, by the time it was in a usable state, I was already close to the end of my last year. However, if I were to continue this project, I would implement the following:
+Currently, there are no plans to continue this project in the future. This app was originally created for my high school cafe but by the time it was in a usable state, I was already close to the end of my last year. If I were to continue this project, I would implement the following:
 
 1.) Expand beyond just coffee, allow the customer app to show more than just one cafe's loyalty progress. Adding a sidebar to switch between establishments. Each establishment could have its own custom color scheme and logo.
 
